@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css",
-    "start": "npm run build && some-server-command"
+    "start": "npm run build"
   },
   "keywords": [],
   "author": "",
